@@ -1,5 +1,4 @@
 const axios = require('axios');
-const fs = require('fs');
 const querystring = require('querystring');
 
 //get full link on video

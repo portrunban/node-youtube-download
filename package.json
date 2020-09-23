@@ -1,0 +1,24 @@
+{
+  "name": "youtube-download",
+  "version": "1.0.0",
+  "description": "Script for download video from youtube",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Youtube",
+    "download",
+    "video",
+    "script",
+    "Node",
+    "Js"
+  ],
+  "author": "Pavlov Yuryi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "querystring": "^0.2.0"
+  }
+}
